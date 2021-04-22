@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/DziedziczenieUdemy/DziedziczenieUdemy.iml" filepath="$PROJECT_DIR$/Dziedziczenie/DziedziczenieUdemy/DziedziczenieUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/DziedziczenieYouTube1/DziedziczenieYouTube1.iml" filepath="$PROJECT_DIR$/Dziedziczenie/DziedziczenieYouTube1/DziedziczenieYouTube1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/DziedziczenieYoutTube2/DziedziczenieYoutTube2.iml" filepath="$PROJECT_DIR$/Dziedziczenie/DziedziczenieYoutTube2/DziedziczenieYoutTube2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstanceOf/InstanceOf.iml" filepath="$PROJECT_DIR$/InstanceOf/InstanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasaObjectPorownanieCwiczenie/KlasaObjectPorownanieCwiczenie.iml" filepath="$PROJECT_DIR$/KlasaObjectPorownanieCwiczenie/KlasaObjectPorownanieCwiczenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasaObjectPorownanieObjektow/KlasaObjectPorownanieObjektow.iml" filepath="$PROJECT_DIR$/KlasaObjectPorownanieObjektow/KlasaObjectPorownanieObjektow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyAnonimowe/KlasyAnonimowe.iml" filepath="$PROJECT_DIR$/KlasyAnonimowe/KlasyAnonimowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Konstruktory/Konstruktory.iml" filepath="$PROJECT_DIR$/Konstruktory/Konstruktory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetteryGettery/KontoBankowe/KontoBankowe.iml" filepath="$PROJECT_DIR$/SetteryGettery/KontoBankowe/KontoBankowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/METODY/METODY.iml" filepath="$PROJECT_DIR$/METODY/METODY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Obiektowe.iml" filepath="$PROJECT_DIR$/.idea/Obiektowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlowoKluczoweFinal/SlowoKluczoweFinal.iml" filepath="$PROJECT_DIR$/SlowoKluczoweFinal/SlowoKluczoweFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetteryGettery/Uczen/Uczen.iml" filepath="$PROJECT_DIR$/SetteryGettery/Uczen/Uczen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyZagniezdzone/Zagniezdzona1/Zagniezdzona1.iml" filepath="$PROJECT_DIR$/KlasyZagniezdzone/Zagniezdzona1/Zagniezdzona1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyZagniezdzone/Zagniezdzona2/Zagniezdzona2.iml" filepath="$PROJECT_DIR$/KlasyZagniezdzone/Zagniezdzona2/Zagniezdzona2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZmienneReferencje/ZmienneReferencje.iml" filepath="$PROJECT_DIR$/ZmienneReferencje/ZmienneReferencje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ĆwiczenieButelka/butelka1/butelka1.iml" filepath="$PROJECT_DIR$/ĆwiczenieButelka/butelka1/butelka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ĆwiczenieButelka/butelka2/butelka2.iml" filepath="$PROJECT_DIR$/ĆwiczenieButelka/butelka2/butelka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ĆwiczenieButelka/butelka3/butelka3.iml" filepath="$PROJECT_DIR$/ĆwiczenieButelka/butelka3/butelka3.iml" />
+    </modules>
+  </component>
+</project>
